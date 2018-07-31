@@ -1,0 +1,10 @@
+How to get the variable explorer to show up.
+
+Start ‘anaconda prompt’
+
+Type (type one line, press enter, repeat): 
+pip install jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user 
+jupyter nbextension enable varInspector/main
+
+Close Jupyter and restart
