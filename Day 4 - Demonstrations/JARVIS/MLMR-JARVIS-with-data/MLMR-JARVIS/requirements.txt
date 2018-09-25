@@ -1,0 +1,7 @@
+scikit-learn==0.18.1
+
+pymatgen==4.6.1
+
+lightgbm==2.1.0
+
+pandas==0.19.2
